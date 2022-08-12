@@ -5,6 +5,9 @@
 Remote control car using Arduino and NRF radio module/HC05 Bluetooth module
 The files can individually be donwloaded and compiled using Arduino IDE and uploaded into your Arduino board(anything above Nano). 
 
+CONNECTIONS
+
+![image](https://user-images.githubusercontent.com/59359627/184305166-e2cc94b3-77d5-4e46-b3e2-679d56461afe.png)
 
 ### HC 05 Blutooth Module
 Use the following link to download remote : [Mobile App](https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN&gl=US)
